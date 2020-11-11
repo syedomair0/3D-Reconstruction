@@ -1,4 +1,4 @@
-# 3D-Reconstruction
+# Computer Vision Learning
 
 Some things that I learned in my senior year in High School semester about different techniques and methods in Computer Vision
 
