@@ -11,7 +11,8 @@ Some things that I learned in my senior year in High School semester about diffe
   - scikit-learn 
   - numpy
 - Image and video manipulations
-- [https://en.wikipedia.org/wiki/Oriented_FAST_and_rotated_BRIEF](Oriented FAST and rotated BRIEF(ORB) feature detector)
+- [Oriented FAST and rotated BRIEF(ORB) feature detector](https://en.wikipedia.org/wiki/Oriented_FAST_and_rotated_BRIEF)
+- [Features from accelerated segment test(FAST) feature detector](https://en.wikipedia.org/wiki/Features_from_accelerated_segment_test)
 - Corner detection 
 - Image Segmentation 
 - basics of augmented reality
